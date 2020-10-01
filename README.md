@@ -1,0 +1,3 @@
+# Mash
+
+Mashes songs together
